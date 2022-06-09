@@ -1,1 +1,20 @@
 # KocaeliGeziUygulamasi
+
+
+
+![gif3](https://user-images.githubusercontent.com/57544847/172801910-3001f218-ca70-49ff-8594-e3c922400ec3.gif)
+
+
+
+KOCAELI BÖLGESINDE BULUNAN INSANLAR ICIN YAPILAN BİR GEZI UYGULAMASI, ICINDE KOCAELIDEKI PARKLARI,IBADETYERLERINI,OTOPARKLARI,OTELLERİ,TARİHİ YERLERİ,MARKETLERİ VS KAPSAR.
+
+
+HAZIRLAYANLAR:
+
+Emir Gazi Kopar
+
+İbrahim Burak Yakar
+
+Berk Taha Demir
+
+Sergen Aytuğ Can
